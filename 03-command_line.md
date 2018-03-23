@@ -35,7 +35,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls -- lists the files and directories.
+> > ls -a -- lists all files and directories including hidden files, usually stating with "."
+> > ls -l -- lists all files and directories in long list format to show specific details.
+> > ls -lh -- lists files and directories with sizes in human readable format.
+> > ls -lah -- lists all files and directories including hidden files with sizes in human readable format.
+> > ls -t -- lists all files and directories sorted based on the file's modification time and date (newest first).
+> > ls -Glp -- lists long format directories with "/" appended to the end of directories (shown in different color).
 
 ---
 
@@ -43,7 +49,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls -a
+> > ls -d
+> > ls -m
+> > ls -p
+> > ls -1
 
 ---
 
@@ -51,7 +61,9 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > xargs allows unix to execute certain commands from standard input. For example, "echo"
+> > echo 'my_dir1 my_dir2 my_dir3' | xargs mkdir
+> > the above command will make 3 new directories named my_dir1, my_dir2 and my_dir3.
 
  
 
