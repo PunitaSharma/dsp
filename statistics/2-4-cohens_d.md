@@ -20,3 +20,5 @@ def CohenEffectSize(group1, group2):
 CohenEffectSize(firsts.prglngth, others.prglngth)
 
 ```
+**  RESULTS: ** 
+> > 0.028879044654449883
