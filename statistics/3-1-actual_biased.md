@@ -37,6 +37,10 @@ print('Unbiased mean', unbiased.Mean())
  
 ```
 **  RESULTS: ** 
->> Actual mean 23.692307692307693
->> Observed mean 29.123376623376625
->> Unbiased mean 23.69230769230769
+> > Actual mean 23.692307692307693
+
+
+> > Observed mean 29.123376623376625
+
+
+> > Unbiased mean 23.69230769230769
