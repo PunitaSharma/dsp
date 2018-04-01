@@ -92,9 +92,11 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 
 > > TB = twin brother
 
+
 > > P(IT & TB) = P(IT) * P(both boys|IT) = (1/2) * (1/300)
 
 > > P(FT & TB) = P(FT) * P(both boys|FT) = (1/4) * (1/125)
+
 
 > > The conditional probability that Elvis was an identical twin is 
 
