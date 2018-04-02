@@ -115,15 +115,15 @@ How do frequentist and Bayesian statistics compare?
 Notes below are from [https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf]
 
 
-Bayes' formula = P(H|D) = ( P(D|H) * P(H) ) / P(D)
+**Bayes' formula = P(H|D) = ( P(D|H) * P(H) ) / P(D)**
 
-H -> Hypothesis
-D -> Data (which may give evidence for or against H)
+> > H -> Hypothesis
+> > D -> Data (which may give evidence for or against H)
 
-The prior P(H) is he probability that H is true before the data is considered.                        
-The posterior P(H|D) is the probability that H is true after the data is considered.                 
-The likelihood P(D|H) is the evidence about H provided by the data D.                                
-P(D) is the total probabiluty of the data taking into account all possible hypotheses.
+> The prior P(H) is he probability that H is true before the data is considered.                        
+> The posterior P(H|D) is the probability that H is true after the data is considered.                 
+> The likelihood P(D|H) is the evidence about H provided by the data D.                                
+> P(D) is the total probabiluty of the data taking into account all possible hypotheses.
 
 **Bayesian inference:**
 > * uses probabilities for both hypotheses and data
@@ -139,7 +139,7 @@ P(D) is the total probabiluty of the data taking into account all possible hypot
 > * dominated statistical practice during the 20th century
 > * tends to be less computationally intensive
       
-While professional divisions between Frequentist and Bayesian methods remain, the consensus forming among top statisticains is that the most effective approaches to complex problems often draw on the best insignts from both schools working in concert.
+> > While professional divisions between Frequentist and Bayesian methods remain, the consensus forming among top statisticains is that the most effective approaches to complex problems often draw on the best insignts from both schools working in concert.
 
 ---
 
